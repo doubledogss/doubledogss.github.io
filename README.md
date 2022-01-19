@@ -1,0 +1,2 @@
+# lucklak.github.io
+blog
